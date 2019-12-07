@@ -1,0 +1,117 @@
+<resources>
+    <string name="app_name">Big Easy Mini Guide</string>
+    <string name="tab_text_1">Sights</string>
+    <string name="tab_text_2">Streets</string>
+    <string name="tab_text_3">Eats</string>
+    <string name="tab_text_4">Beats</string>
+
+    <string name="sights_1_Title">Sights to see in the Big Easy</string>
+    <string name="sights_1_Desc">New Orleans is filled with historical buildings, parks, and century old homes. On your next trip, take some time to visit these locations.</string>
+    <string name="sights_1_Address"> </string>
+    <string name="sights_1_Link"> </string>
+
+    <string name="sights_2_Title">The Superdome</string>
+    <string name="sights_2_Desc">The Mercedes-Benz Superdome, often referred to simply as the Superdome, is a domed sports and exhibition stadium located in the Central Business District of New Orleans, Louisiana.</string>
+    <string name="sights_2_Address">1500 Sugar Bowl Dr, New Orleans, LA 70112</string>
+    <string name="sights_2_Link">http://www.mbsuperdome.com/</string>
+
+    <string name="sights_3_Title">Lake Ponchartrain</string>
+    <string name="sights_3_Desc">Lake Pontchartrain is a brackish estuary located in southeastern Louisiana in the United States. It covers an area of 630 square miles with an average depth of 12 to 14 feet.</string>
+    <string name="sights_3_Address">500 Port of New Orleans Pl, New Orleans, LA 70130</string>
+    <string name="sights_3_Link">https://en.wikipedia.org/wiki/Lake_Pontchartrain</string>
+
+    <string name="sights_4_Title">Riverwalk New Orleans</string>
+    <string name="sights_4_Desc">The Outlet Collection at Riverwalk, until 2014 Riverwalk Marketplace, is an outlet mall located in the Central Business District of New Orleans, Louisiana. It is located along the Mississippi River waterfront, stretching from the base of Canal Street, upriver to the New Orleans Morial Convention Center.</string>
+    <string name="sights_4_Address">Lake Pontchartrain, LA</string>
+    <string name="sights_4_Link">https://www.riverwalkneworleans.com/</string>
+
+    <string name="sights_5_Title">City Park</string>
+    <string name="sights_5_Desc">City Park is as magical and unique as the city of New Orleans. The 1,300-acre outdoor oasis has enchanted New Orleanians since 1854, making it one of the nation’s oldest urban parks.</string>
+    <string name="sights_5_Address">615 Pere Antoine Alley, New Orleans, LA 70116</string>
+    <string name="sights_5_Link">http://www.stlouiscathedral.org/</string>
+
+    <string name="sights_6_Title">St. Louis Cathedral</string>
+    <string name="sights_6_Desc">The Cathedral-Basilica of Saint Louis, King of France, also called St. Louis Cathedral, is the seat of the Roman Catholic Archdiocese of New Orleans and is the oldest cathedral in what would become the United States, dedicated to Saint Louis, also known as King Louis IX of France.</string>
+    <string name="sights_6_Address">615 Pere Antoine Alley, New Orleans, LA 70116</string>
+    <string name="sights_6_Link">http://www.stlouiscathedral.org/</string>
+
+    <string name="streets_1_Title">Some popular streets in New Orleans.</string>
+    <string name="streets_1_Desc">Most visitors, or people planning to visit the city are familiar with the first street on this list, but below are more streets you can find some entertainment and fun.</string>
+    <string name="streets_1_Address"></string>
+    <string name="streets_1_Link"></string>
+
+    <string name="streets_2_Title">Bourbon Street</string>
+    <string name="streets_2_Desc">Bourbon Street is a historic street in the heart of the French Quarter of New Orleans. Extending thirteen blocks from Canal Street to Esplanade Avenue, Bourbon Street is famous for its many bars and strip clubs.</string>
+    <string name="streets_2_Address">French Quarter, New Orleans, LA</string>
+    <string name="streets_2_Link">https://www.yelp.com/biz/bourbon-street-new-orleans</string>
+
+    <string name="streets_3_Title">Frenchmen Street</string>
+    <string name="streets_3_Desc">Frenchmen Street is in the 7th Ward of New Orleans, Louisiana. It is best known for the three-block section in the Faubourg Marigny neighborhood which is home to some of the citys popular live-music venues.</string>
+    <string name="streets_3_Address">500 Frenchmen St, New Orleans, LA</string>
+    <string name="streets_3_Link">https://www.yelp.com/biz/frenchmen-street-corridor-new-orleans</string>
+
+    <string name="streets_4_Title">St Charles Ave</string>
+    <string name="streets_4_Desc">St. Charles Avenue is a thoroughfare in New Orleans, Louisiana, U.S. and the home of the St. Charles Streetcar Line. It is also famous for the dozens of mansions that adorn the tree-lined boulevard for much of the uptown section of the boulevard.</string>
+    <string name="streets_4_Address">St Charles Avenue, New Orleans, LA</string>
+    <string name="streets_4_Link">https://www.riverwalkneworleans.com/</string>
+
+    <string name="streets_5_Title">Canal Street</string>
+    <string name="streets_5_Desc">Canal Street is a major thoroughfare in the city of New Orleans. Forming the upriver boundary of the citys oldest neighborhood, the French Quarter or Vieux Carré, it served historically as the dividing line between the colonial-era (18th-century) city and the newer American Sector, todays Central Business District. A hot spot for fun and action during Mardi Gras, Canal Street has been hosting parades since the very beginning of the local celebration in the mid-1800s.</string>
+    <string name="streets_5_Address">Canal Street, New Orleans, LA</string>
+    <string name="streets_5_Link">https://www.neworleans.com/plan/streets/canal-street/</string>
+
+    <string name="eats_1_Title">Popular foods you can find.</string>
+    <string name="eats_1_Desc">There are a lot of great restaurants you can visit, such the Acme Oyster House, Commanders Palace, and Pat O\'Brien\'s to name a few, but throughout the city you can find some rally good food\, such as:</string>
+    <string name="eats_1_Address"></string>
+    <string name="eats_1_Link"></string>
+
+    <string name="eats_2_Title">Po-Boys</string>
+    <string name="eats_2_Desc">Scattered thorought the coty you can find small sandwich shops that build these delicous Po-Boys. Almost anywhere you can find a shop that can serve upa great Shrimp, Oyster, Catfish, or Hot Sausage Po-Boy. Don\'t forge to have is dressed.</string>
+    <string name="eats_2_Address">Po-Boys, New Orleans, LA</string>
+    <string name="eats_2_Link"></string>
+
+    <string name="eats_3_Title">Crawfish</string>
+    <string name="eats_3_Desc">Crawfiish is another stapls, and unlike some other cities where you maybe be able to find crawfish, crawdads, or crayfish, you will not find tiny crustaceans that are to small to peel and enjoy.</string>
+    <string name="eats_3_Address">Crawfish, New Orleans, LA</string>
+    <string name="eats_3_Link"></string>
+
+    <string name="eats_4_Title">Pralines</string>
+    <string name="eats_4_Desc">On your next trip to New Orleans, don\'t forget to buy yourself, your family, or co-workers a box of these sweet, delicious staples of the south. You can wander into almo any market downtown or in the french quarter to find these confections.</string>
+    <string name="eats_4_Address">Pralines,New Orleans, LA</string>
+    <string name="eats_4_Link"></string>
+
+    <string name="eats_5_Title">Pig Lips"</string>
+    <string name="eats_5_Desc">Yes, this is no mistake. Pickled pig lips are a popluar snack in New Orleans. These vinegar spiced chunks of pork meat and fat are finger licking deliciuos, but definitely not for everyone. You may also find the pickled pig feet, but I prefer the boneless pig lips.</string>
+    <string name="eats_5_Address">Can be found in many small merketplaces.</string>
+    <string name="eats_5_Link"></string>
+
+    <string name="music_1_Title">The musc scene in New Orleans is legendary and diverse.</string>
+    <string name="music_1_Desc">In most areas of the city you will come across some sort of music venue where you can enjoy, Jazz, Hip Hop, R&amp;B or Gospel. Music is part of the New Orlelans culture, well appreciated by visitors and local alike.</string>
+    <string name="music_1_Address"></string>
+    <string name="music_1_Link"></string>
+
+    <string name="music_2_Title">Jazz</string>
+    <string name="music_2_Desc">Jazz is a music genre that originated in the African-American communities of New Orleans, United States.[1] It originated in the late 19th and early 20th centuries, and developed from roots in blues and ragtime.Jazz is seen by many as America\'s classical music. Since the 1920s Jazz Age, jazz has become recognized as a major form of musical expression. -wikipedia</string>
+    <string name="music_2_Address">Jazz, New Orleans, LA</string>
+    <string name="music_2_Link">https://www.neworleans.com/things-to-do/music/jazz-clubs/</string>
+
+    <string name="music_3_Title">Hip-Hop and Rap</string>
+    <string name="music_3_Desc">The New Orelans rap scene started to gain ground in the late 80, butin the early 90\'s bounce music was the popular local style of dance music. The rap scene really took off on the arrival of No Limit Records, Cash Money Records, and some other smaller labels like Big Boy, where Mystikal firat released, the mind of Mystikal.</string>
+    <string name="music_3_Address">Rap Labels, New Orleans, LA</string>
+    <string name="music_3_Link">https://64parishes.org/entry/rap-hip-hop-and-bounce-music</string>
+
+    <string name="music_4_Title">New Orleans Jazz &amp; Heritage Festival</string>
+    <string name="music_4_Desc">The New Orleans Jazz &amp;Heritage Festival, often known as Jazz Fest, is an annual celebration of the music and culture of New Orleans and Louisiana. The term \"Jazz Fest\" also refers to the days surrounding the festival and the many shows at unaffiliated New Orleans nightclubs scheduled during the festival weekends.</string>
+    <string name="music_4_Address">Fair Grounds Race Course &amp; Slots, New Orleans, LA</string>
+    <string name="music_4_Link">http://www.nojazzfest.com/</string>
+
+    <string name="music_5_Title">Essence Festival</string>
+    <string name="music_5_Desc">The Essence Festival, known as \"the party with a purpose\", is an annual music festival which started in 1995 as a one-time event to celebrate the 25th anniversary of Essence, a magazine aimed primarily towards African-American women.</string>
+    <string name="music_5_Address">Mercedes-Benz Superdome, New Orleans, LA</string>
+    <string name="music_5_Link">https://www.essence.com/recap-festival-page/</string>
+
+    <string name="music_6_Title">Second Lines</string>
+    <string name="music_6_Desc">The use of brass marching bands came long before jazz music through their use in the military, though in New Orleans many of the best-known musicians had their start in brass marching bands performing dirges as well as celebratory and upbeat tunes for New Orleans jazz funeral processions from the 1890s onward. The tradition drove onward with musicians such as Louis Armstrong, Henry \"Red\" Allen and King Oliver.</string>
+    <string name="music_6_Address">Mostly Uptown and the Treme Areas</string>
+    <string name="music_6_Link">https://www.frenchquarter.com/secondline/</string>
+</resources>

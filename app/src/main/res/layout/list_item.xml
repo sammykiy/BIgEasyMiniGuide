@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/colorAccent"
+    android:minHeight="@dimen/list_item_height">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/text_container"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:background="@color/colorAccent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/place_title"
+            style="@style/TitleText"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:gravity="bottom"
+            android:textAppearance="?android:textAppearanceMedium"
+            tools:text="Place Title" />
+
+        <ImageView
+            android:id="@+id/image"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:adjustViewBounds="true"
+            android:background="@color/colorAccent"
+            android:src="@drawable/superdome" />
+
+        <TextView
+            android:id="@+id/place_description"
+            style="@style/DescriptionText"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            tools:text="Added here will be a description of a place in New Orleans. Needs to be somewhat descriptive that can draw attention to location" />
+
+        <TextView
+            android:id="@+id/place_address"
+            style="@style/RightText"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            tools:text="123 Street" />
+
+        <TextView
+            android:id="@+id/place_website"
+            style="@style/RightText"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            tools:text="nola.com" />
+
+    </LinearLayout>
+</RelativeLayout>
